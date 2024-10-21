@@ -3,7 +3,7 @@ import Body from "./Components/Body";
 import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Skill from "./Components/Skill";
-import Project from "./Components/project";
+import Project from "./Components/Project";
 import Resume from "./Components/Resume";
 import FormComponent from "./Components/FormComponent";
 import { Routes, Route } from "react-router-dom";
