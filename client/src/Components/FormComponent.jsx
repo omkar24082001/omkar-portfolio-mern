@@ -19,7 +19,7 @@ const FormComponent = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/form", formData);
+      await axios.post("https://omkar-portfolio-mern.onrender.com/api/form", formData);
       alert("Form submitted successfully!");
       // Clear the form after successful submission
       setFormData({
