@@ -12,7 +12,7 @@ const Socialmedia = () => {
       <a href="https://github.com/omkar24082001" target="_blank" rel="noopener noreferrer" style={styles.iconLink}>
         <FaGithub size={30} />
       </a>
-      <a href="rawoolomkar861@gmail.com" target="_blank" rel="noopener noreferrer" style={styles.iconLink}>
+      <a href="mailto:rawoolomkar861@gmail.com" target="_blank" rel="noopener noreferrer" style={styles.iconLink}>
         <MdEmail size={30} />
       </a>
       <a href="https://www.facebook.com/omkar.rawool.1656/" target="_blank" rel="noopener noreferrer" style={styles.iconLink}>
